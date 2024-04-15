@@ -17,4 +17,4 @@ The output will be in the FAS format as defined by S4pred.
 - **Batch Sequence Size:** The maximum sequence size per batch is 20.
 
 ## Additional Information
-Please allow some time for the script to execute, as processing times can vary based on the input size
+Please allow some time for the script to set up and execute
