@@ -14,7 +14,7 @@ The input should look like protein_1 \t AVETSQINEIEEELTVLKEVFRNEAGLQE \n
 
 ## Output Format
 The output will be in the FAS format as output by S4pred. 
-It looks like something like this: >protein_1 \n AVETSQINEIEEELTVLKEVFRN... \n HHHHHEEEEEEELLEEEEHHHH... \n 
+It looks something like this: >protein_1 \n AVETSQINEIEEELTVLKEVFRN... \n HHHHHEEEEEEELLEEEEHHHH... \n 
 
 ## Execution parameters
 - **Maximum Workers:** The script supports up to 10 workers at a time.
